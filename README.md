@@ -1,4 +1,4 @@
 # Dynamic_explorer
 The demonstration of experimental results is as follows:
-
-![demonstration of experimental results]()
+# Experimental results
+![demonstration of experimental results](https://github.com/Joosoo1/Dynamic-explorer/blob/main/exoloration.gif)
